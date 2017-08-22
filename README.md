@@ -12,7 +12,7 @@ Keys:
 # Demo  
 Demo link: [https://dvbportal.github.io/standardnotes-editor-plus/](https://dvbportal.github.io/standardnotes-editor-plus/).
 
-Installation link: [https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus](https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus).
+Installation link: [https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus&type=editor](https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus&type=editor).
 
 # Updates
 - Added strikethrough by completing tasks
