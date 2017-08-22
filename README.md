@@ -1,7 +1,7 @@
 # Extended Standardnotes Editor-plus
 A plain Texteditor with Tab and Todo support. 
 
-![](https://raw.githubusercontent.com/DDanielH/standardnotes-editor-plus/master/screenshot.png)
+![](https://raw.githubusercontent.com/dvbportal/standardnotes-editor-plus/master/screenshot.png)
 
 # Usage
 Keys:
@@ -10,9 +10,9 @@ Keys:
     Ctr + Enter for creating a new line as Todo
   
 # Demo  
-Demo link: [https://ddanielh.github.io/standardnotes-editor-plus/](https://ddanielh.github.io/standardnotes-editor-plus/).
+Demo link: [https://dvbportal.github.io/standardnotes-editor-plus/](https://dvbportal.github.io/standardnotes-editor-plus/).
 
-Installation link: [https://ddanielh.github.io/standardnotes-editor-plus/editor.html?name=default-plus](https://ddanielh.github.io/standardnotes-editor-plus/editor.html?name=default-plus).
+Installation link: [https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus](https://dvbportal.github.io/standardnotes-editor-plus/editor.html?name=default-plus).
 
 # Updates
 - Added strikethrough by completing tasks
