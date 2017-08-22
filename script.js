@@ -191,6 +191,6 @@
 	 };
 	  
 	  
-	tabOverride.set(editor);
+	tabOverride.tabSize(2).set(editor);
 	  
     });
